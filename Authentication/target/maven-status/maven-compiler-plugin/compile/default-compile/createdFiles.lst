@@ -1,0 +1,5 @@
+co\edu\arep\controller\AuthController.class
+co\edu\arep\model\Encrypt.class
+co\edu\arep\model\User.class
+co\edu\arep\SparkWeb.class
+co\edu\arep\service\AuthService.class
